@@ -16,6 +16,7 @@ Features :
 - Used running images for the animations.
 - Different algorithms and arrangements for hit, damage, jump and death.
 - Different damage rates for both the players.
+- Both the players constantly in motion.
 
 Setup: run ```npm i && npm start``` to start the development server
 #
