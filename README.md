@@ -11,7 +11,10 @@
 - Real life Physics, 
 - Hit, Death and Damage options, 
 
-Features :
+## Deployed Link
+https://xo-fight-game.netlify.app/
+
+## Features :
 - Used canvas for the frame.
 - Used running images for the animations.
 - Different algorithms and arrangements for hit, damage, jump and death.
